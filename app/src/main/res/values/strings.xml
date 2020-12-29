@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShaadiDotCom</string>
+    <string name="request_accepted">Your request is accepted</string>
+    <string name="request_declined">Your request is declined</string>
+</resources>
